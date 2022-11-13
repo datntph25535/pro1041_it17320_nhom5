@@ -22,6 +22,8 @@ public class DemoProject {
 
         System.out.println("12/11/2022 08:58");
         System.out.println("huyenhtt");
+        
+        System.out.println("test");
 
     }
     
