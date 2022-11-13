@@ -17,6 +17,7 @@ public class DemoProject {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("12/11/2022");
+        System.out.println("vinh");
     }
     
 }
